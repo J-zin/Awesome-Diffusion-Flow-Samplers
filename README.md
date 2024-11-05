@@ -11,7 +11,6 @@ Collecting research materials on NN-based samplers with diffusion/flow models
 - Particle Dynamics for Learning EBMs
 - Score-Based Diffusion meets Annealed Importance Sampling
 - Denoising Diffusion Samplers
-- Score-based diffusion meets annealed importance sampling
 - Diffusive Gibbs Sampling
 - Training Neural Samplers with Reverse Diffusive KL Divergence
 - Particle denoising diffusion sampler
