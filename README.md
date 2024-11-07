@@ -16,3 +16,4 @@ Collecting research materials on NN-based samplers with diffusion/flow models
 - Particle denoising diffusion sampler
 - Flow annealed importance sampling bootstrap
 - Liouville Flow Importance Sampler
+- Denoising Fisher Training For Neural Implicit Samplers
