@@ -21,3 +21,4 @@ Collecting research materials on NN-based samplers with diffusion/flow models
 - Learning Interpolations between Boltzmann Densities
 - Dynamical Measure Transport and Neural PDE Solvers for Sampling
 - NETS: A Non-Equilibrium Transport Sampler
+- Improved sampling via learned diffusions
