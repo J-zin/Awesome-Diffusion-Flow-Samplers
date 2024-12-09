@@ -22,3 +22,4 @@ Collecting research materials on NN-based samplers with diffusion/flow models
 - Dynamical Measure Transport and Neural PDE Solvers for Sampling
 - NETS: A Non-Equilibrium Transport Sampler
 - Improved sampling via learned diffusions
+- Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics
