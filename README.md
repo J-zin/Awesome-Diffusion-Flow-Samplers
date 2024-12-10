@@ -23,3 +23,4 @@ Collecting research materials on NN-based samplers with diffusion/flow models
 - NETS: A Non-Equilibrium Transport Sampler
 - Improved sampling via learned diffusions
 - Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics
+- Transferable Boltzmann Generators
