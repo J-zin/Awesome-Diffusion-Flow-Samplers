@@ -24,3 +24,4 @@ Collecting research materials on NN-based samplers with diffusion/flow models
 - Improved sampling via learned diffusions
 - Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics
 - Transferable Boltzmann Generators
+- BNEM: A BOLTZMANN SAMPLER BASED ON BOOTSTRAPPED NOISED ENERGY MATCHING
