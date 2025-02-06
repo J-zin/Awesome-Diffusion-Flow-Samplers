@@ -43,6 +43,11 @@ arXiv:2410.02711 [[Paper](https://arxiv.org/abs/2410.02711)]\
 arXiv:2409.09787 [[Paper](https://arxiv.org/abs/2409.09787)]\
 15 Sep 2024
 
+**Efficient and Unbiased Sampling of Boltzmann Distributions via Consistency Models**\
+*Fengzhe Zhang, Jiajun He, Laurence I. Midgley, Javier Antorán, José Miguel Hernández-Lobato*\
+arXiv:2409.07323 [[Paper](https://arxiv.org/abs/2409.07323)]\
+11 Sep 2024
+
 **Iterated Energy-based Flow Matching for Sampling from Boltzmann Densities**\
 *Dongyeop Woo, Sungsoo Ahn*\
 arXiv:2408.16249 [[Paper](https://arxiv.org/abs/2408.16249)]\
@@ -188,6 +193,11 @@ ICLR 2025. [[Paper](https://openreview.net/forum?id=xoXn62FzD0)]\
 **Step-by-Step Reasoning for Math Problems via Twisted Sequential Monte Carlo**\
 *Shengyu Feng, Xiang Kong, Shuang Ma, Aonan Zhang, Dong Yin, Chong Wang, Ruoming Pang, Yiming Yang*\
 ICLR 2025. [[Paper](https://arxiv.org/abs/2410.01920)]\
+23 Jan 2025
+
+**Alignment without Over-optimization: Training-Free Solution for Diffusion Models**\
+*Sunwoo Kim, Minkyu Kim, Dongmin Park*\
+ICLR 2025. [[Paper](https://openreview.net/forum?id=vi3DjUhFVm)]\
 23 Jan 2025
 
 **Posterior Inference in Sequential Models with Soft Value Guidance**\
