@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**No Trick, No Treat: Pursuits and Challenges Towards Simulation-free Training of Neural Samplers**\
+*Jiajun He, Yuanqi Du, Francisco Vargas, Dinghuai Zhang, Shreyas Padhy, RuiKang OuYang, Carla Gomes, José Miguel Hernández-Lobato*\
+arXiv:2502.06685 [[Paper](https://arxiv.org/abs/2502.06685)]\
+10 Feb 2025
+
 **Underdamped Diffusion Bridges with Applications to Sampling**\
 *Denis Blessing, Julius Berner, Lorenz Richter, Gerhard Neumann*\
 ICLR 2025. [[Paper](https://openreview.net/forum?id=Q1QTxFm0Is)]\
@@ -87,6 +92,11 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.03008)] [[Code](https://github.co
 *Xunpeng Huang, Hanze Dong, Yifan Hao, Yi-An Ma, Tong Zhang*\
 ICLR 2024. [[Paper](https://openreview.net/forum?id=kIPEyMSdFV)]\
 2 Oct 2023
+
+**Transport meets Variational Inference: Controlled Monte Carlo Diffusions**\
+*Francisco Vargas, Shreyas Padhy, Denis Blessing, Nikolas Nüsken*\
+ICLR 2024. [[Paper](https://arxiv.org/abs/2307.01050)]\
+3 Jul 2023
 
 **Improved sampling via learned diffusions**\
 *Lorenz Richter, Julius Berner*\
