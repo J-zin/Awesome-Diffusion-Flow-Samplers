@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**Neural Flow Samplers with Shortcut Models**\
+*Wuhao Chen, Zijing Ou, Yingzhen Li*\
+arXiv:2502.07337 [[Paper](https://arxiv.org/abs/2502.07337)]\
+11 Feb 2025
+
 **No Trick, No Treat: Pursuits and Challenges Towards Simulation-free Training of Neural Samplers**\
 *Jiajun He, Yuanqi Du, Francisco Vargas, Dinghuai Zhang, Shreyas Padhy, RuiKang OuYang, Carla Gomes, José Miguel Hernández-Lobato*\
 arXiv:2502.06685 [[Paper](https://arxiv.org/abs/2502.06685)]\
