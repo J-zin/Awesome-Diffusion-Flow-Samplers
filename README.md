@@ -114,7 +114,7 @@ ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] [[Code](https://github.co
 6 Feb 2023
 
 **Denoising Diffusion Samplers**\
-*KFrancisco Vargas, Will Sussman Grathwohl, Arnaud Doucet*\
+*Francisco Vargas, Will Sussman Grathwohl, Arnaud Doucet*\
 ICLR 2023. [[Paper](https://openreview.net/forum?id=8pvnfTAbu1f)]\
 2 Feb 2023
 
