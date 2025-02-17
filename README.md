@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**Complexity Analysis of Normalizing Constant Estimation: from Jarzynski Equality to Annealed Importance Sampling and beyond**\
+*Wei Guo, Molei Tao, Yongxin Chen*\
+ICLR 2025. [[Paper](https://arxiv.org/abs/2502.04575)]\
+7 Feb 2025
+
 **Neural Flow Samplers with Shortcut Models**\
 *Wuhao Chen, Zijing Ou, Yingzhen Li*\
 arXiv:2502.07337 [[Paper](https://arxiv.org/abs/2502.07337)]\
@@ -199,6 +204,16 @@ arXiv:2005.05409 [[Paper](https://arxiv.org/abs/2005.05409)]\
 11 May 2020
 
 ### Applications
+
+**Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics**\
+*Sebastian Sanokowski, Wilhelm Berghammer, Martin Ennemoser, Haoyu Peter Wang, Sepp Hochreiter, Sebastian Lehner*\
+ICLR 2025 [[Paper](https://arxiv.org/abs/2502.08696)]\
+12 Feb 2025
+
+**Debiasing Guidance for Discrete Diffusion with Sequential Monte Carlo**\
+*Cheuk Kit Lee, Paul Jeha, Jes Frellsen, Pietro Lio, Michael Samuel Albergo, Francisco Vargas*\
+arXiv:2502.06079 [[Paper](https://arxiv.org/abs/2502.06079)]\
+10 Feb 2025
 
 **Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**\
 *João Loula, Benjamin LeBrun, Li Du, Ben Lipkin, Clemente Pasti, Gabriel Grand, Tianyu Liu, Yahya Emara, Marjorie Freedman, Jason Eisner, Ryan Cotterell, Vikash Mansinghka, Alexander K. Lew, Tim Vieira, Timothy J. O'Donnell*\
