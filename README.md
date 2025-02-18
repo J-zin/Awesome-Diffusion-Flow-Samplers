@@ -18,10 +18,10 @@
 
 ### Diffusion & Flow Based
 
-**Complexity Analysis of Normalizing Constant Estimation: from Jarzynski Equality to Annealed Importance Sampling and beyond**\
-*Wei Guo, Molei Tao, Yongxin Chen*\
-ICLR 2025. [[Paper](https://arxiv.org/abs/2502.04575)]\
-7 Feb 2025
+**LEAPS: A discrete neural sampler via locally equivariant networks**\
+*Peter Holderrieth, Michael S. Albergo, Tommi Jaakkola*\
+arXiv:2502.10843 [[Paper](https://arxiv.org/abs/2502.10843)]\
+15 Feb 2025
 
 **Neural Flow Samplers with Shortcut Models**\
 *Wuhao Chen, Zijing Ou, Yingzhen Li*\
@@ -32,6 +32,11 @@ arXiv:2502.07337 [[Paper](https://arxiv.org/abs/2502.07337)]\
 *Jiajun He, Yuanqi Du, Francisco Vargas, Dinghuai Zhang, Shreyas Padhy, RuiKang OuYang, Carla Gomes, José Miguel Hernández-Lobato*\
 arXiv:2502.06685 [[Paper](https://arxiv.org/abs/2502.06685)]\
 10 Feb 2025
+
+**Complexity Analysis of Normalizing Constant Estimation: from Jarzynski Equality to Annealed Importance Sampling and beyond**\
+*Wei Guo, Molei Tao, Yongxin Chen*\
+ICLR 2025. [[Paper](https://arxiv.org/abs/2502.04575)]\
+7 Feb 2025
 
 **Underdamped Diffusion Bridges with Applications to Sampling**\
 *Denis Blessing, Julius Berner, Lorenz Richter, Gerhard Neumann*\
