@@ -33,6 +33,11 @@ arXiv:2502.07337 [[Paper](https://arxiv.org/abs/2502.07337)]\
 arXiv:2502.06685 [[Paper](https://arxiv.org/abs/2502.06685)]\
 10 Feb 2025
 
+**End-to-end Learning of Gaussian Mixture Priors for Diffusion Sampler**\
+*Denis Blessing, Xiaogang Jia, Gerhard Neumann*\
+ICLR 2025. [[Paper](https://openreview.net/forum?id=iXbUquaWbl)]\
+11 Feb 2025
+
 **Complexity Analysis of Normalizing Constant Estimation: from Jarzynski Equality to Annealed Importance Sampling and beyond**\
 *Wei Guo, Molei Tao, Yongxin Chen*\
 ICLR 2025. [[Paper](https://arxiv.org/abs/2502.04575)]\
@@ -42,6 +47,16 @@ ICLR 2025. [[Paper](https://arxiv.org/abs/2502.04575)]\
 *Denis Blessing, Julius Berner, Lorenz Richter, Gerhard Neumann*\
 ICLR 2025. [[Paper](https://openreview.net/forum?id=Q1QTxFm0Is)]\
 23 Jan 2025
+
+**Neural Sampling from Boltzmann Densities: Fisher-Rao Curves in the Wasserstein Geometry**\
+*Jannis Chemseddine, Christian Wald, Richard Duong, Gabriele Steidl*\
+ICLR 2025. [[Paper](https://openreview.net/forum?id=TUvg5uwdeG)]\
+22 Jan 2025
+
+**Learned Reference-based Diffusion Sampling for multi-modal distributions**\
+*Maxence Noble, Louis Grenioux, Marylou Gabrié, Alain Oliviero Durmus*\
+ICLR 2025. [[Paper](https://arxiv.org/abs/2410.19449)]\
+25 Dec 2024
 
 **Sequential Controlled Langevin Diffusions**\
 *Junhua Chen, Lorenz Richter, Julius Berner, Denis Blessing, Gerhard Neumann, Anima Anandkumar*\
@@ -87,6 +102,16 @@ NeurIPS 2024. [[Paper](https://arxiv.org/abs/2405.14392)] [[Code](https://github
 *Yifeng Tian, Nishant Panda, Yen Ting Lin*\
 ICML 2024. [[Paper](https://arxiv.org/abs/2405.06672)] [[Code](https://github.com/lanl/LFIS)]\
 3 May 2024
+
+**Faster Sampling via Stochastic Gradient Proximal Sampler**\
+*Xunpeng Huang, Difan Zou, Yi-An Ma, Hanze Dong, Tong Zhang*\
+ICML 2024. [[Paper](https://arxiv.org/abs/2405.16734)] \
+27 May 2024
+
+**Stochastic Localization via Iterative Posterior Sampling**\
+*Louis Grenioux, Maxence Noble, Marylou Gabrié, Alain Oliviero Durmus*\
+ICML 2024. [[Paper](https://arxiv.org/abs/2402.10758)] \
+16 Feb 2024
 
 **Iterated Denoising Energy Matching for Sampling from Boltzmann Densities**\
 *Tara Akhound-Sadegh, Jarrid Rector-Brooks, Avishek Joey Bose, Sarthak Mittal, Pablo Lemos, Cheng-Hao Liu, Marcin Sendera, Siamak Ravanbakhsh, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin, Alexander Tong*\
