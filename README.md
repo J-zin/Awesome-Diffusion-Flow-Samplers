@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**Generalised Parallel Tempering: Flexible Replica Exchange via Flows and Diffusions**\
+*Leo Zhang, Peter Potaptchik, Arnaud Doucet, Hai-Dang Dau, Saifuddin Syed*\
+arXiv:2502.10328 [[Paper](https://arxiv.org/abs/2502.10328)]\
+14 Feb 2025
+
 **LEAPS: A discrete neural sampler via locally equivariant networks**\
 *Peter Holderrieth, Michael S. Albergo, Tommi Jaakkola*\
 arXiv:2502.10843 [[Paper](https://arxiv.org/abs/2502.10843)]\
