@@ -163,6 +163,11 @@ ICLR 2023. [[Paper](https://openreview.net/forum?id=8pvnfTAbu1f)]\
 
 ### Optimal Control & GFlowNet & Others
 
+**Value Gradient Sampler: Sampling as Sequential Decision Making**\
+*Sangwoong Yoon, Himchan Hwang, Hyeokju Jeong, Dong Kyu Shin, Che-Sang Park, Sehee Kwon, Frank Chongwoo Park*\
+arXiv:2502.13280 [[Paper](https://www.arxiv.org/abs/2502.13280)]\
+18 Feb 2025
+
 **Denoising Fisher Training For Neural Implicit Samplers**\
 *Weijian Luo, Wei Deng*\
 arXiv:2411.01453 [[Paper](https://arxiv.org/abs/2411.01453)]\
