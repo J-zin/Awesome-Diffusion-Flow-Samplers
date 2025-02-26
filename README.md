@@ -18,6 +18,12 @@
 
 ### Diffusion & Flow Based
 
+**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**\
+*Charlie B. Tan, Avishek Joey Bose, Chen Lin, Leon Klein, Michael M. Bronstein, Alexander Tong*\
+arXiv:2502.18462 [[Paper](https://arxiv.org/abs/2502.18462)]\
+25 Feb 2025
+
+
 **Generalised Parallel Tempering: Flexible Replica Exchange via Flows and Diffusions**\
 *Leo Zhang, Peter Potaptchik, Arnaud Doucet, Hai-Dang Dau, Saifuddin Syed*\
 arXiv:2502.10328 [[Paper](https://arxiv.org/abs/2502.10328)]\
