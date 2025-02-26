@@ -28,6 +28,11 @@ arXiv:2502.10328 [[Paper](https://arxiv.org/abs/2502.10328)]\
 arXiv:2502.10843 [[Paper](https://arxiv.org/abs/2502.10843)]\
 15 Feb 2025
 
+**Single-Step Consistent Diffusion Samplers**\
+*Pascal Jutras-Dubé, Patrick Pynadath, Ruqi Zhang*\
+arXiv:2502.07579 [[Paper](https://arxiv.org/abs/2502.07579)]\
+11 Feb 2025
+
 **Neural Flow Samplers with Shortcut Models**\
 *Wuhao Chen, Zijing Ou, Yingzhen Li*\
 arXiv:2502.07337 [[Paper](https://arxiv.org/abs/2502.07337)]\
