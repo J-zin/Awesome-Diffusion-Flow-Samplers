@@ -124,6 +124,11 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.06672)] [[Code](https://github.co
 ICML 2024. [[Paper](https://arxiv.org/abs/2405.16734)] \
 27 May 2024
 
+**Path-Guided Particle-based Sampling**\
+*Mingzhou_Fan, Ruida Zhou, Chao Tian, Xiaoning Qian*\
+ICLR 2024. [[Paper](https://openreview.net/forum?id=Kt4fwiuKqf)]\
+2 May 2024
+
 **Stochastic Localization via Iterative Posterior Sampling**\
 *Louis Grenioux, Maxence Noble, Marylou Gabrié, Alain Oliviero Durmus*\
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.10758)] \
