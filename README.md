@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**\
+*Marta Skreta, Tara Akhound-Sadegh, Viktor Ohanesian, Roberto Bondesan, Alán Aspuru-Guzik, Arnaud Doucet, Rob Brekelmans, Alexander Tong, Kirill Neklyudov*\
+arXiv:2503.02819 [[Paper](https://arxiv.org/abs/2503.02819)]\
+4 Mar 2025
+
 **Scalable Equilibrium Sampling with Sequential Boltzmann Generators**\
 *Charlie B. Tan, Avishek Joey Bose, Chen Lin, Leon Klein, Michael M. Bronstein, Alexander Tong*\
 arXiv:2502.18462 [[Paper](https://arxiv.org/abs/2502.18462)]\
