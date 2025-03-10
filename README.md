@@ -266,6 +266,11 @@ arXiv:2005.05409 [[Paper](https://arxiv.org/abs/2005.05409)]\
 
 ### Applications
 
+**Energy-Weighted Flow Matching for Offline Reinforcement Learning**\
+*Shiyuan Zhang, Weitong Zhang, Quanquan Gu*\
+ICLR 2025 [[Paper](https://arxiv.org/abs/2503.04975)]\
+6 Mar 2025
+
 **Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics**\
 *Sebastian Sanokowski, Wilhelm Berghammer, Martin Ennemoser, Haoyu Peter Wang, Sepp Hochreiter, Sebastian Lehner*\
 ICLR 2025 [[Paper](https://arxiv.org/abs/2502.08696)]\
@@ -305,6 +310,11 @@ arXiv:2412.05788 [[Paper](https://arxiv.org/abs/2412.05788)]\
 *Zhen Liu, Tim Z. Xiao, Weiyang Liu, Yoshua Bengio, Dinghuai Zhang*\
 ICLR 2025. [[Paper](https://arxiv.org/abs/2412.07775)]\
 10 Dec 2024
+
+**Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints**\
+*Lingkai Kong, Yuanqi Du, Wenhao Mu, Kirill Neklyudov, Valentin De Bortoli, Dongxia Wu, Haorui Wang, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang*\
+AISTATS 2025. [[Paper](https://arxiv.org/abs/2402.18012)]\
+21 Oct 2024
 
 **Plug-and-Play Controllable Generation for Discrete Masked Models**\
 *Wei Guo, Yuchen Zhu, Molei Tao, Yongxin Chen*\
