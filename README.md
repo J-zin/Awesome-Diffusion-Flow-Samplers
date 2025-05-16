@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**\
+*Aaron Havens, Benjamin Kurt Miller, Bing Yan, Carles Domingo-Enrich, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen*\
+arXiv:2504.11713 [[Paper](https://arxiv.org/abs/2504.11713)]\
+16 Apr 2025
+
 **Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**\
 *Marta Skreta, Tara Akhound-Sadegh, Viktor Ohanesian, Roberto Bondesan, Alán Aspuru-Guzik, Arnaud Doucet, Rob Brekelmans, Alexander Tong, Kirill Neklyudov*\
 arXiv:2503.02819 [[Paper](https://arxiv.org/abs/2503.02819)]\
