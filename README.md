@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**Path Gradients after Flow Matching**\
+*Lorenz Vaitl, Leon Klein*\
+arXiv:2505.10139 [[Paper](https://arxiv.org/abs/2505.10139)]\
+15 May 2025
+
 **Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**\
 *Aaron Havens, Benjamin Kurt Miller, Bing Yan, Carles Domingo-Enrich, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen*\
 arXiv:2504.11713 [[Paper](https://arxiv.org/abs/2504.11713)]\
