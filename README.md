@@ -18,6 +18,11 @@
 
 ### Diffusion & Flow Based
 
+**Discrete Neural Flow Samplers with Locally Equivariant Transformer**\
+*Zijing Ou, Ruixiang Zhang, Yingzhen Li*\
+arXiv:2505.17741  [[Paper](https://arxiv.org/abs/2505.17741)]\
+23 May 2025
+
 **Path Gradients after Flow Matching**\
 *Lorenz Vaitl, Leon Klein*\
 arXiv:2505.10139 [[Paper](https://arxiv.org/abs/2505.10139)]\
@@ -275,6 +280,11 @@ arXiv:2005.05409 [[Paper](https://arxiv.org/abs/2005.05409)]\
 11 May 2020
 
 ### Applications
+
+**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**\
+*Carles Domingo-Enrich, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen*\
+arXiv:2409.08861 [[Paper](https://arxiv.org/abs/2409.08861)]\
+7 Jan 2025
 
 **Energy-Weighted Flow Matching for Offline Reinforcement Learning**\
 *Shiyuan Zhang, Weitong Zhang, Quanquan Gu*\
