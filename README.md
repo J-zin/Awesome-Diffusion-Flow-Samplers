@@ -283,7 +283,7 @@ arXiv:2005.05409 [[Paper](https://arxiv.org/abs/2005.05409)]\
 
 **Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**\
 *Carles Domingo-Enrich, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen*\
-arXiv:2409.08861 [[Paper](https://arxiv.org/abs/2409.08861)]\
+ICLR 2025 [[Paper](https://arxiv.org/abs/2409.08861)]\
 7 Jan 2025
 
 **Energy-Weighted Flow Matching for Offline Reinforcement Learning**\
