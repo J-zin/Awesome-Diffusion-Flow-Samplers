@@ -18,6 +18,21 @@
 
 ### Diffusion & Flow Based
 
+**On scalable and efficient training of diffusion samplers**\
+*Minkyu Kim, Kiyoung Seong, Dongyeop Woo, Sungsoo Ahn, Minsu Kim*\
+arXiv:2505.19552 [[Paper](https://arxiv.org/abs/2505.19552)]\
+31 May 2025
+
+**Energy-based generator matching: A neural sampler for general state space**\
+*Dongyeop Woo, Minsu Kim, Minkyu Kim, Kiyoung Seong, Sungsoo Ahn*\
+arXiv:2505.19646 [[Paper](https://arxiv.org/abs/2505.19646)]\
+27 May 2025
+
+**Importance Weighted Score Matching for Diffusion Samplers with Enhanced Mode Coverage**\
+*Chenguang Wang, Xiaoyu Zhang, Kaiyuan Cui, Weichen Zhao, Yongtao Guan, Tianshu Yu*\
+arXiv:2505.19431 [[Paper](https://arxiv.org/abs/2505.19431)]\
+26 May 2025
+
 **Discrete Neural Flow Samplers with Locally Equivariant Transformer**\
 *Zijing Ou, Ruixiang Zhang, Yingzhen Li*\
 arXiv:2505.17741  [[Paper](https://arxiv.org/abs/2505.17741)]\
