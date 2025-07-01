@@ -18,10 +18,20 @@
 
 ### Diffusion & Flow Based
 
+**Adjoint Schrödinger Bridge Sampler**\
+*Guan-Horng Liu, Jaemoo Choi, Yongxin Chen, Benjamin Kurt Miller, Ricky T. Q. Chen*\
+arXiv:2506.22565 [[Paper](https://arxiv.org/abs/2506.22565)]\
+27 June 2025
+
+**RNE: a plug-and-play framework for diffusion density estimation and inference-time control**\
+*Jiajun He, José Miguel Hernández-Lobato, Yuanqi Du, Francisco Vargas*\
+arXiv:2506.05668 [[Paper](https://arxiv.org/abs/2506.05668)]\
+27 June 2025
+
 **On scalable and efficient training of diffusion samplers**\
 *Minkyu Kim, Kiyoung Seong, Dongyeop Woo, Sungsoo Ahn, Minsu Kim*\
 arXiv:2505.19552 [[Paper](https://arxiv.org/abs/2505.19552)]\
-31 May 2025
+6 June 2025
 
 **Energy-based generator matching: A neural sampler for general state space**\
 *Dongyeop Woo, Minsu Kim, Minkyu Kim, Kiyoung Seong, Sungsoo Ahn*\
