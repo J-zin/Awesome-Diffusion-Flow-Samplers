@@ -18,11 +18,6 @@
 
 ### Diffusion & Flow Based
 
-**Adjoint Schrödinger Bridge Sampler**\
-*Guan-Horng Liu, Jaemoo Choi, Yongxin Chen, Benjamin Kurt Miller, Ricky T. Q. Chen*\
-arXiv:2506.22565 [[Paper](https://arxiv.org/abs/2506.22565)]\
-27 June 2025
-
 **RNE: a plug-and-play framework for diffusion density estimation and inference-time control**\
 *Jiajun He, José Miguel Hernández-Lobato, Yuanqi Du, Francisco Vargas*\
 arXiv:2506.05668 [[Paper](https://arxiv.org/abs/2506.05668)]\
@@ -32,6 +27,11 @@ arXiv:2506.05668 [[Paper](https://arxiv.org/abs/2506.05668)]\
 *Minkyu Kim, Kiyoung Seong, Dongyeop Woo, Sungsoo Ahn, Minsu Kim*\
 arXiv:2505.19552 [[Paper](https://arxiv.org/abs/2505.19552)]\
 6 June 2025
+
+**Test-Time Alignment of Discrete Diffusion Models with Sequential Monte Carlo**\
+*Chinmay Pani, Zijing Ou, Yingzhen Li*\
+arXiv:2505.22524 [[Paper](https://arxiv.org/abs/2505.22524)]\
+28 May 2025
 
 **Energy-based generator matching: A neural sampler for general state space**\
 *Dongyeop Woo, Minsu Kim, Minkyu Kim, Kiyoung Seong, Sungsoo Ahn*\
@@ -52,11 +52,6 @@ arXiv:2505.17741  [[Paper](https://arxiv.org/abs/2505.17741)]\
 *Lorenz Vaitl, Leon Klein*\
 arXiv:2505.10139 [[Paper](https://arxiv.org/abs/2505.10139)]\
 15 May 2025
-
-**Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**\
-*Aaron Havens, Benjamin Kurt Miller, Bing Yan, Carles Domingo-Enrich, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen*\
-arXiv:2504.11713 [[Paper](https://arxiv.org/abs/2504.11713)]\
-16 Apr 2025
 
 **Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**\
 *Marta Skreta, Tara Akhound-Sadegh, Viktor Ohanesian, Roberto Bondesan, Alán Aspuru-Guzik, Arnaud Doucet, Rob Brekelmans, Alexander Tong, Kirill Neklyudov*\
@@ -113,6 +108,11 @@ ICLR 2025. [[Paper](https://openreview.net/forum?id=Q1QTxFm0Is)]\
 *Jannis Chemseddine, Christian Wald, Richard Duong, Gabriele Steidl*\
 ICLR 2025. [[Paper](https://openreview.net/forum?id=TUvg5uwdeG)]\
 22 Jan 2025
+
+**A General Framework for Inference-time Scaling and Steering of Diffusion Models**\
+*Raghav Singhal, Zachary Horvitz, Ryan Teehan, Mengye Ren, Zhou Yu, Kathleen McKeown, Rajesh Ranganath*\
+arXiv:2501.06848 [[Paper](https://arxiv.org/abs/2501.06848)]\
+16 Jan 2025
 
 **Learned Reference-based Diffusion Sampling for multi-modal distributions**\
 *Maxence Noble, Louis Grenioux, Marylou Gabrié, Alain Oliviero Durmus*\
@@ -229,6 +229,21 @@ ICLR 2023. [[Paper](https://openreview.net/forum?id=8pvnfTAbu1f)]\
 
 ### Optimal Control & GFlowNet & Others
 
+**Adjoint Schrödinger Bridge Sampler**\
+*Guan-Horng Liu, Jaemoo Choi, Yongxin Chen, Benjamin Kurt Miller, Ricky T. Q. Chen*\
+arXiv:2506.22565 [[Paper](https://arxiv.org/abs/2506.22565)]\
+27 June 2025
+
+**Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**\
+*Aaron Havens, Benjamin Kurt Miller, Bing Yan, Carles Domingo-Enrich, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen*\
+arXiv:2504.11713 [[Paper](https://arxiv.org/abs/2504.11713)]\
+16 Apr 2025
+
+**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**\
+*Carles Domingo-Enrich, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen*\
+ICLR 2025 [[Paper](https://arxiv.org/abs/2409.08861)]\
+7 Jan 2025
+
 **Value Gradient Sampler: Sampling as Sequential Decision Making**\
 *Sangwoong Yoon, Himchan Hwang, Hyeokju Jeong, Dong Kyu Shin, Che-Sang Park, Sehee Kwon, Frank Chongwoo Park*\
 arXiv:2502.13280 [[Paper](https://www.arxiv.org/abs/2502.13280)]\
@@ -305,11 +320,6 @@ arXiv:2005.05409 [[Paper](https://arxiv.org/abs/2005.05409)]\
 11 May 2020
 
 ### Applications
-
-**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**\
-*Carles Domingo-Enrich, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen*\
-ICLR 2025 [[Paper](https://arxiv.org/abs/2409.08861)]\
-7 Jan 2025
 
 **Energy-Weighted Flow Matching for Offline Reinforcement Learning**\
 *Shiyuan Zhang, Weitong Zhang, Quanquan Gu*\
