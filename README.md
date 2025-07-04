@@ -12,6 +12,7 @@
 ## Workshops & Symposiums
 
 - [FPI Workshop at ICLR 2025.](https://sites.google.com/view/fpiworkshop/about?authuser=0)
+- [MSR NE Generative Modeling & Sampling Seminar.](https://sites.google.com/view/msrne-genai-sampling-seminar/home)
 
 
 ## Papers
